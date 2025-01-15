@@ -20,4 +20,4 @@ SI-FIT-SA is a web-based **Fitness Goal Tracker** designed to help you log worko
 
 
 🚀LIVE PAGE:-  https://sasi-upparapalli.github.io/SI-FIT-SA/   
-🚀REPOSITORY LINK:-
+🚀REPOSITORY LINK:-https://github.com/sasi-upparapalli/SI-FIT-SA.git
